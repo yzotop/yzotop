@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in data analisys and data science
-- 🌱 I’m currently learning Machine Learning Scientist at DataCamp
+- 🌱 I’m currently learning сareer track "Machine Learning Scientist" at DataCamp
 - 💞️ I’m looking to collaborate on machine learning tasks
 - 📫 How to reach me herу or telegram @DataLake
 
